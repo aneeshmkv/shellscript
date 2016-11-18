@@ -1,0 +1,11 @@
+echo "enter the file name"; read filename
+echo "$filename"
+read -p "enter the path" path 
+echo  "$path"
+if  [${path}/${filename}] 
+then
+cd ${path}
+rm ${fil
+else
+echo "no file exist"
+fi
