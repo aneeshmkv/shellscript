@@ -1,4 +1,0 @@
-clear
-mkdir timestamp
-mv ~/tmp/test ~/aneeshall/shellscript/test3.sh/timestamp
-
